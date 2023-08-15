@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: silly-demo
-        image: vfarcic/silly-demo:1.0.3
+        image: vfarcic/silly-demo:1.0.4
         ports:
         - containerPort: 8080
         livenessProbe:
