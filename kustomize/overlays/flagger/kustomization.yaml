@@ -9,4 +9,4 @@ namespace: production
 images:
 - name: vfarcic/silly-demo
   newName: vfarcic/silly-demo
-  newTag: 1.0.5
+  newTag: 1.0.6
